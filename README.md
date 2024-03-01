@@ -1,4 +1,7 @@
-# Factors of Student Success Research Project
+# Factors of Student Success
+
+![image](https://github.com/mmattos2000/FactorsofStudentSuccess/assets/99051624/e2c8807a-49d7-403d-952f-50d0b5d127fb)
+
 
 ## Abstract
 Navigating the academic journey as a student presents various challenges, and understanding the factors influencing academic success is crucial. This project aims to investigate the impact of certain variables on students' grades and assess the probability of these factors determining academic success.
